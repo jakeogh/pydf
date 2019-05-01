@@ -61,7 +61,7 @@ readonly_fs_colour = 'cyan'
 filled_fs_colour = 'red'
 
 # colour for filesystems with usage > FULL_THRESH
-full_fs_colour = 'on_red', 'green', 'blink'
+full_fs_colour = 'on_red', 'green'
 
 # custom device names - not implemented yet
 #custom_devices_colour = {
